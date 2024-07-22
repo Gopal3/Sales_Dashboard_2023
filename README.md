@@ -10,6 +10,8 @@ Model Building: Develop a time series forecasting model to predict future sales.
 Model Evaluation: Assess the model's performance using appropriate metrics.
 Conclusion: Summarize findings and provide actionable insights.
 
+Tool and Technology: SQL, Python, Excel, Tableau.
+
 Key Steps:
 1. Data Preprocessing: Load the dataset, Handling missing values, Converting data types, Feature extraction and transformation.
 2. Exploratory Data Analysis (EDA): Visualize sales trends over time, Analyzing seasonality and cyclic patterns, Identifying outliers and anomalies.
