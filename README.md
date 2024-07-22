@@ -24,8 +24,11 @@ Sales Trend Over Time
 Profit Over Time
 ![Total Profit](https://github.com/user-attachments/assets/15cbfe32-9ba4-4645-abd0-4fb830655e91)
 
+Comparing Sub Category
 ![Sub Category Comparison](https://github.com/user-attachments/assets/57b65ac2-6d7f-4bbd-8146-da5c320bd87f)
 
+Weekly Trends
 ![Weekly Trends](https://github.com/user-attachments/assets/ad101079-cb9a-42db-89c8-40ba65694e74)
 
+Final Dynamic Dashboard
 ![Dynamic Dashboard](https://github.com/user-attachments/assets/f978207f-ed87-4a67-ba5f-9ed080b78903)
