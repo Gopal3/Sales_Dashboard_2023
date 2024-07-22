@@ -18,9 +18,10 @@ Key Steps
 5. Model Evaluation
 
 Results:
-Figure: Sales Trend Over Time
+Sales Trend Over Time
 ![Total Sales](https://github.com/user-attachments/assets/e37e999b-3b08-41bc-8fd9-3008f765b05d)
 
+Profit Over Time
 ![Total Profit](https://github.com/user-attachments/assets/15cbfe32-9ba4-4645-abd0-4fb830655e91)
 
 ![Sub Category Comparison](https://github.com/user-attachments/assets/57b65ac2-6d7f-4bbd-8146-da5c320bd87f)
